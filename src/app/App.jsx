@@ -4,6 +4,7 @@ import Users from './layouts/Users'
 import Login from './layouts/Login'
 import Main from './layouts/Main'
 import NavBar from './components/ui/NavBar'
+// Задания 1-2 выполненые
 
 function App() {
     return (
